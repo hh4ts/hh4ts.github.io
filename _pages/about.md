@@ -34,16 +34,13 @@ Hello! I am currently a Postdoctoral Research Fellow at the School of Computing 
 - *2013.09 - 2017.06*, B.E., School of Optical-Electrical and Computer Engineering, University of Shanghai for Science and Technology, China.
 
 # 📝 Academic Service
-- **Reviewers**
-  - IEEE Transactions on Neural Networks and Learning Systems (IEEE TNNLS)
-  - IEEE Transactions on Multimedia (IEEE TMM)
-  - Information Fusion (IF)
-  - Knowledge-Based Systems (KBS)
-  - Machine Learning (ML)
-  - Neurocomputing
-- **SPC Members**
+- **Area Chair**
+  - ICML 2027
+  - ICLR 2027
   - CIKM 2026
-- **PC Members**
+- **SPC Member**
+  - CIKM 2026
+- **Reviewer/PC Member**
   - AAAI 2023/2024/2025/2026
   - IJCAI 2026
   - KDD 2024/2026
@@ -52,6 +49,13 @@ Hello! I am currently a Postdoctoral Research Fellow at the School of Computing 
   - ICLR 2026
   - ACM MM 2025/2026
   - ACL ARR 2026
+- **Journal Reviewer**
+  - IEEE Transactions on Neural Networks and Learning Systems (IEEE TNNLS)
+  - IEEE Transactions on Multimedia (IEEE TMM)
+  - Information Fusion (IF)
+  - Knowledge-Based Systems (KBS)
+  - Machine Learning (ML)
+  - Neurocomputing
 
 # 🎥 Tutorials
 
